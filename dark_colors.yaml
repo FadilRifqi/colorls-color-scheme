@@ -1,0 +1,47 @@
+# Dracula themed dark color settings for colorls
+#
+# Main Colors
+unrecognized_file: "#f5a97f" # Peach
+recognized_file: "#cad3f5" # Text
+executable_file: "#a6da95" # Green
+dir: "#7dc4e4" # Sapphire
+
+# Link
+dead_link: "#ed8796" # Red
+link: "#91d7e3" # Sky
+
+# Special Files
+socket: "#a6da95" # Green
+blockdev: "#a6da95" # Green
+chardev: "#a6da95" # Green
+
+# Access Modes
+write: "#f5bde6" # Pink
+read: "#7dc4e4" # Sapphire
+exec: "#91d7e3" # Sky
+no_access: "#ed8796" # Red
+
+# Age
+hour_old: "#b8c0e0" # Subtext1 - 20% lighter
+day_old: "#8087a2" # Overlay1
+no_modifier: "#494d64" # Surface1
+
+# File Size
+file_large: "#ed8796" # Red
+file_medium: "#f5a97f" # Peach
+file_small: "#a6da95" # Green
+
+# Random
+report: "#a6da95" # Green
+user: "#91d7e3" # Sky
+tree: "#494d64" # Surface1
+empty: "#8087a2" # Overlay1
+error: "#ed8796" # Red
+normal: "#cad3f5" # Text
+
+# Git
+addition: "#91d7e3" # Sky
+modification: "#eed49f" # Yellow
+deletion: "#ed8796" # Red
+untracked: "#f5a97f" # Peach
+unchanged: "#a6da95" # Green
